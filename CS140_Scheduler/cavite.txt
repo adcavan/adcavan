@@ -1,0 +1,4 @@
+attack 15
+defend 14
+attack 13
+defend 12

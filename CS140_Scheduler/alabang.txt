@@ -1,0 +1,4 @@
+attack 8
+seige 7
+attack 6
+parley 5

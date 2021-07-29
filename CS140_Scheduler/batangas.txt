@@ -1,0 +1,4 @@
+attack 11
+defend 10
+attack 9
+seige 8
